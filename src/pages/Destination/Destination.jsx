@@ -90,26 +90,3 @@ export default Destination
 
 
 
-
-
-
-
-{/* <section>
-
-    <div className="container">
-        {data.map(({ id, info, img, describtion, distance, time }) => (
-            <div key={id} className="planets__box">
-                <div className="planets__box__infobox">
-                    <h1 className='planets__box__title'>{info}</h1>
-                    <p className='planets__box__txt'>{describtion}</p>
-                    <div className="planets__box__info2">
-                        <p className='planets__box__txt'>AVG. DISTANCE<br />{distance}</p>
-                        <p className='planets__box__txt'>Est. travel time<br />{time}</p>
-                    </div>
-                </div>
-                <img className='planets__box__banner' src={img.moon} alt="" />
-            </div>
-        ))}
-
-    </div>
-</section> */}
