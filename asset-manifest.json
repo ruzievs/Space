@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Space/static/css/main.57695b0b.css",
+    "main.js": "/Space/static/js/main.18050f01.js",
+    "static/media/planets.jpg": "/Space/static/media/planets.8fe4a925f4a5c64382ef.jpg",
+    "static/media/technologybg.jpg": "/Space/static/media/technologybg.0be5c36625ee2c93935e.jpg",
+    "static/media/moon.png": "/Space/static/media/moon.e55e5b8139488aeb9499.png",
+    "static/media/mars.png": "/Space/static/media/mars.020200a50d9b95f6da96.png",
+    "static/media/hum2.png": "/Space/static/media/hum2.e0716273c4316c92347e.png",
+    "static/media/titan.png": "/Space/static/media/titan.0ba6a8386155d6c77d2b.png",
+    "static/media/crewbg.png": "/Space/static/media/crewbg.20e85b3b196d4548da00.png",
+    "static/media/earth.jpg": "/Space/static/media/earth.e728c70032d3ec967357.jpg",
+    "static/media/roc2.png": "/Space/static/media/roc2.ffbe5cf65750f69fb855.png",
+    "static/media/hum3.png": "/Space/static/media/hum3.184799b1b35e8f826302.png",
+    "static/media/hum4.png": "/Space/static/media/hum4.a621b868b4d984fa6a8e.png",
+    "static/media/roc1.png": "/Space/static/media/roc1.4bc5f5b1d96c95782503.png",
+    "static/media/hum1.png": "/Space/static/media/hum1.e735dccbfaa82ea6bf5e.png",
+    "static/media/roc3.png": "/Space/static/media/roc3.317e9bb82d40cd0f5766.png",
+    "static/media/europa.png": "/Space/static/media/europa.b1555ef08f1db99b7eb8.png",
+    "index.html": "/Space/index.html",
+    "main.57695b0b.css.map": "/Space/static/css/main.57695b0b.css.map",
+    "main.18050f01.js.map": "/Space/static/js/main.18050f01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57695b0b.css",
+    "static/js/main.18050f01.js"
+  ]
+}
