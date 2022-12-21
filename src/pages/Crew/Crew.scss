@@ -1,0 +1,59 @@
+@import '../../assets/style/colors';
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&display=swap');
+
+.humens__items {
+    display: inline-block;
+}
+
+.humens__link {
+    position: absolute;
+    cursor: pointer;
+    top: 520px;
+    display: flex;
+    gap: 20px;
+    font-family: 'Barlow Condensed';
+    color: $color-white;
+    z-index: 1;
+
+
+    .active {
+        display: flex;
+        justify-content: center;
+        background-color: $color-grey;
+        border-radius: 60%;
+        width: 20px;
+        border: 1px solid #4E4F57;
+
+    }
+
+}
+
+
+
+@media (max-width:1024px) {
+    .crewbg {
+        height: 180vh;
+    }
+}
+@media (max-width:961px) {}
+@media (max-width:850px) {
+    .crewbg {
+        height: 230vh;
+    }
+}
+@media (max-width:768px) {}
+@media (max-width:736px) {
+    .crewbg {
+        height: 200vh;
+    }
+}
+@media (max-width:641px) {
+    .crewbg {
+        height: 220vh;
+    }
+}
+@media (max-width:600px) {}
+@media (max-width:481px) {}
+@media (max-width:414px) {}
+@media (max-width:360px) {}
+@media (max-width:320px) {}

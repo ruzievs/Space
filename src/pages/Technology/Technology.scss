@@ -1,0 +1,73 @@
+@import '../../assets/style/colors';
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&display=swap');
+
+.rockets__items {
+    display: inline-block;
+}
+
+.rockets__link {
+    position: absolute;
+    cursor: pointer;
+    top: 340px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    font-family: 'Barlow Condensed';
+    color: $color-white;
+    z-index: 1;
+
+
+    .active {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $color-grey;
+        border-radius: 500%;
+        width: 40px;
+        height: 40px;
+        border: 1px solid #4E4F57;
+
+    }
+
+}
+
+@media (max-width:1024px) {
+    .rockets__link {
+        font-size: 12px;
+        left: 80px;
+
+        .active {
+            width: 30px;
+            height: 30px;
+        }
+    }
+    
+}
+@media (max-width:961px) {}
+@media (max-width:850px) {
+    .banner2 {
+        height: 250vh;
+    }
+    .rockets__link {
+        font-size: 12px;
+
+        .active {
+            width: 20px;
+            height: 20px;
+        }
+    }
+}
+@media (max-width:768px) {}
+@media (max-width:736px) {}
+@media (max-width:641px) {}
+@media (max-width:600px) {}
+@media (max-width:481px) {}
+@media (max-width:414px) {}
+@media (max-width:360px) {
+    .banner2 {
+        height: 220vh;
+    }
+}
+@media (max-width:320px) {}
